@@ -1,2 +1,18 @@
-# piano
-Projeto desenvolvido no curso 7 projetos em 7 dias por B7Web 
+![piano_screenshot (2)](https://user-images.githubusercontent.com/86077339/126880275-52b963bc-e6ac-4013-be00-9b07733d2058.png)
+
+
+
+# 📄 Sobre
+
+Projeto desenvolvido através do curso 7 Projetos em 7 dias, ofertado pela [B7Web](https://b7web.com.br/).
+
+O projeto inicial, que tratava-se de uma bateria, foi adaptado para um piano simples de sete teclas (DO RE MI FA SOL LA SI)
+
+<br>
+
+# 🚀 Tecnologias
+
+No projeto foram utilizados:
+ - HTML
+ - CSS
+ - JavaScript
