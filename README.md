@@ -2,7 +2,7 @@
 
 
 
-# 📄 Sobre
+## 📄 Sobre
 
 Projeto desenvolvido através do curso 7 Projetos em 7 dias, ofertado pela [B7Web](https://b7web.com.br/).
 
@@ -10,7 +10,7 @@ O projeto inicial, que se tratava de uma bateria, foi adaptado para um piano sim
 
 <br>
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
 No projeto foram utilizados:
  - HTML
